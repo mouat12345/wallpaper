@@ -36,6 +36,5 @@ A curated collection of high-quality wallpapers organized by theme.
 See [SOURCES.md](./SOURCES.md) for attribution and sources.
 
 ## 📝 License
-(./LICENSE)
+[LICENSE](./LICENSE)
 
-1" src="https://github.com/user-attachments/assets/24c27653-c502-41cd-a750-78ff0c37ae25" />
